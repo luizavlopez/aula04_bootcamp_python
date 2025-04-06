@@ -5,3 +5,8 @@ lista_de_numeros.extend(range(1,11))
 
 for numero in lista_de_numeros:
     print(numero**2)
+
+# resposta
+# numeros = list(range(1, 11))
+#for numero in numeros:
+#    print(quadrados**2)
