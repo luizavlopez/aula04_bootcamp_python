@@ -4,4 +4,4 @@ lista_de_numeros: list = []
 lista_de_numeros.extend(range(1,11))
 
 for numero in lista_de_numeros:
-    print(numero)
+    print(numero**2)
